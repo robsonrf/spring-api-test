@@ -1,0 +1,22 @@
+com/spring/test/wine/repository/WineStoreRepository.java
+ com.spring.test.wine.repository.WineStoreRepository
+com/spring/test/wine/controller/WineStoreController.java
+ com.spring.test.wine.controller.WineStoreController
+com/spring/test/wine/service/WineStoreService.java
+ com.spring.test.wine.service.WineStoreService
+com/spring/test/wine/repository/impl/WineStoreRepositoryImpl.java
+ com.spring.test.wine.repository.impl.WineStoreRepositoryImpl
+com/spring/test/wine/model/ModelBase.java
+ com.spring.test.wine.model.ModelBase
+com/spring/test/wine/model/WineStore.java
+ com.spring.test.wine.model.WineStore
+com/spring/test/wine/repository/GenericRepository.java
+ com.spring.test.wine.repository.GenericRepository
+com/spring/test/wine/repository/WineStoreRepositoryCustom.java
+ com.spring.test.wine.repository.WineStoreRepositoryCustom
+com/spring/test/wine/WineStoreApplication.java
+ com.spring.test.wine.WineStoreApplication
+com/spring/test/wine/controller/GenericController.java
+ com.spring.test.wine.controller.GenericController
+com/spring/test/wine/exception/BusinessRulesException.java
+ com.spring.test.wine.exception.BusinessRulesException
